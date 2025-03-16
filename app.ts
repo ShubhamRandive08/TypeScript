@@ -12,7 +12,7 @@
 
 // console.log(getTotal([3,2,1]))
 
-const user = {
+var user = {
     fname : 'Shubham',
     lname : 'Randive'
 }
